@@ -33,7 +33,7 @@ export class Home extends Component {
         return (
             <div className="card border">
                 <div className="card-header">
-                    <h1>NUMU</h1>
+                    <h1 className="display-4"><b>NUMU</b></h1>
                 </div>
                 <div className="card-body">
                     <div className="container">
